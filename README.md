@@ -45,7 +45,7 @@ This project involves creating a customer and address book using Laravel, with p
 ## Instructions
 
 1. Step 1: Set Up Laravel Project  or 
-   ## CLONE - git clone https://thushanthsbm1997@bitbucket.org/customer-address-book-webco/customer-address-book-webco.git
+   ## CLONE - git clone https://github.com/ThushanthSbm/customer-address-book-webco.git 
 
 2. Step 2: Create Models and Migrations
    Create models and migrations for Customer, Address, and Project
